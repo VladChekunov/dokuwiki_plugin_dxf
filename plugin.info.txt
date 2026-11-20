@@ -1,0 +1,7 @@
+base   dxf
+author veche
+email  veche@national.shitposting.agency
+date   2026-11-22
+name   DXF Markdown Preview
+desc   Displays DXF code snippets as 3D rendered preview using dxf-render
+url    https://github.com/VladChekunov/dokuwiki_plugin_dxf
